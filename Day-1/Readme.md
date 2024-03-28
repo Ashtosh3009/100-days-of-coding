@@ -12,6 +12,7 @@ For the first day of my coding challenge, I've accomplished the following:
 - **Finding the Smallest Element - Array Operations**: Understand how to traverse a Java array, compare elements, and identify the smallest element within it.
 - **Counting Vowels - String Operations**: Learn to manipulate strings and count specific characters in Java, reinforcing the understanding of string operations, loops, and conditionals.
 - **Calculating String Length - String Operations**: Gain a solid understanding of string operations in Java by writing a function to calculate the length of a given string.
+- **Reversing a String - String Operations**: Enhance proficiency in string manipulation by creating a function to reverse a given string.
 
 Feel free to join me on this journey! I'll be updating this README with my daily progress, so stay tuned for more updates. If you have any suggestions, feedback, or just want to say hi, feel free to reach out. Let's code together! 🚀
 
