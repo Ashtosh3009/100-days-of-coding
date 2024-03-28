@@ -14,6 +14,12 @@ For the first day of my coding challenge, I've accomplished the following:
 - **Calculating String Length - String Operations**: Gain a solid understanding of string operations in Java by writing a function to calculate the length of a given string.
 - **Reversing a String - String Operations**: Enhance proficiency in string manipulation by creating a function to reverse a given string.
 
+## Day 2
+
+For the second day of my coding challenge, I've accomplished the following:
+
+- **Make Sidebar Menu On Website**: I created a simple Sidebar Menu using HTML and CSS. You can check out the implementation by following this [video tutorial](https://youtu.be/P1RwfxvQKQM?si=C3T6pp8YNEubFB1b).
+
 Feel free to join me on this journey! I'll be updating this README with my daily progress, so stay tuned for more updates. If you have any suggestions, feedback, or just want to say hi, feel free to reach out. Let's code together! 🚀
 
 ---
