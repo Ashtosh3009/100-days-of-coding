@@ -12,6 +12,7 @@ For the second day of my coding challenge, I've accomplished the following:
 - **OTP Verification Form**: I created a simple OTP Verification Form using HTML, CSS and Javascript. You can check out the implementation by following this [video tutorial](https://youtu.be/B89FTJhhC6A?si=ImeuPxoKI1s2kyR0).
 - **JS StopWatch**: I created a simple Stopwatch using HTML, CSS and Javascript. You can check out the implementation by following this [video tutorial](https://youtu.be/d8-LGhKtzRw?si=A82gBqghxPjTGYjU).
 - **Age Calculator App**: I build an Age Calculator App Using HTML CSS And JavaScript. You can check out the implementation by following this [video tutorial](https://youtu.be/_pw8vk1tAhs?si=HEk91qAD7sK1oMIZ).
+- **How To Make Quote Generator Website Using HTML CSS And JavaScript**: [video tutorial](https://youtu.be/FiUVwPYYT5A?si=SHtaiF_v96If5iiO).
 
 Feel free to join me on this journey! I'll be updating this README with my daily progress, so stay tuned for more updates. If you have any suggestions, feedback, or just want to say hi, feel free to reach out. Let's code together! 🚀
 
