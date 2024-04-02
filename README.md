@@ -27,6 +27,7 @@ For the second day of my coding challenge, I've accomplished the following:
 ## Day 3
 ## Day 4
 ## Day 5
+## Day 6
 
 Feel free to join me on this journey! I'll be updating this README with my daily progress, so stay tuned for more updates. If you have any suggestions, feedback, or just want to say hi, feel free to reach out. Let's code together! 🚀
 
