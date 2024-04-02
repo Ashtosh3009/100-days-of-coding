@@ -24,6 +24,10 @@ For the second day of my coding challenge, I've accomplished the following:
 - **Age Calculator App**: I build an Age Calculator App Using HTML CSS And JavaScript. You can check out the implementation by following this [video tutorial](https://youtu.be/_pw8vk1tAhs?si=HEk91qAD7sK1oMIZ).
 - **How To Make Quote Generator Website Using HTML CSS And JavaScript**: [video tutorial](https://youtu.be/FiUVwPYYT5A?si=SHtaiF_v96If5iiO).
 
+## Day 3
+## Day 4
+## Day 5
+
 Feel free to join me on this journey! I'll be updating this README with my daily progress, so stay tuned for more updates. If you have any suggestions, feedback, or just want to say hi, feel free to reach out. Let's code together! 🚀
 
 ---
