@@ -35,6 +35,15 @@ For the third day of my coding challenge, I've accomplished the following:
 - **How To Make A Calculator Using HTML CSS And JavaScript**: [video tutorial](https://youtu.be/cGgLHJGyS34?si=SCouGC1vTpFnJMFf).
 
 ## Day 4
+
+For the fourth day of my coding challenge, I've accomplished the following:
+
+- **How To Make A Popup Using HTML, CSS And JavaScript | Create a Modal Box In HTML Website**: [video tutorial](https://youtu.be/AF6vGYIyV8M?si=IRbrJeAtTi31KG4I).
+- **Finding the Second Largest Element - Array Operations**: Strengthen understanding of array traversal and conditional statements by implementing a method to find the second largest element in an array.
+- **Factorial Computation - Recursion**: Understand the concept of recursion and how it can be used to solve problems that involve repeated application of a function, such as calculating the factorial of a number.
+- **Remove Spaces from a String - String Manipulation**: Understand and practice the manipulation of strings in Java by implementing a function to remove all spaces from a given string.
+- **Swap Two Numbers - Without Using Third Variable**: Grasp the concept of bit manipulation and understand how to swap two integers in Java without using a temporary or third variable.
+
 ## Day 5
 ## Day 6
 
