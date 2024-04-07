@@ -10,6 +10,7 @@ For the sixth day of my coding challenge, I've accomplished the following:
 - **How To Make Dark Mode Website Design Part 2 | Dark Theme Website Using HTML CSS JS**: [Video Tutorial](https://youtu.be/2j_kBqpFK-g?si=a7NlkzWcDxw3TscZ).
 - **Count Digit Frequency - Number Operations**: Learn to manipulate numbers and count the frequency of a specific digit within a larger number.
 - **Separate 0's and 1's from an Array - Array Segregation**: Learn to manipulate arrays and understand the concept of array segregation using Java.
+- **Separate Even and Odd Numbers - Array Manipulation**: Understand how to manipulate an array in Java by separating even and odd numbers.
 
 
 Feel free to join me on this journey! I'll be updating this README with my daily progress, so stay tuned for more updates. If you have any suggestions, feedback, or just want to say hi, feel free to reach out. Let's code together! 🚀
